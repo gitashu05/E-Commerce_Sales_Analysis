@@ -22,3 +22,7 @@ In the category section, set and kurta are highest selling category but blouse,b
 * Channel Strategy: Utilize ads, offers, and coupons available on Amazon, Flipkart, and Myntra to reach the target audience effectively.
 
 > By implementing these strategies, Vrinda Store can enhance its sales performance and achieve growth in the upcoming year and also focus more sells and profit margin.
+
+## Snap Shots of the project
+![image](https://github.com/gitashu05/E-Commerce_Sales_Analysis/assets/139986359/01a0f3fc-4325-493a-955d-c4d23b81e3dd)
+
